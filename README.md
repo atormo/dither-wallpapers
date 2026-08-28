@@ -136,8 +136,8 @@ The two HEIC files are also stored in [`dynamic`](./dynamic).
 
 - **Resolution:** 5120 × 3200 pixels
 - **Aspect ratio:** 16:10
-- **Still format:** high-quality JPEG
-- **Dynamic format:** HEIC
+- **Still format:** optimized high-quality JPEG
+- **Dynamic format:** optimized HEIC
 - **Finish:** smooth gradients with a consistent ordered-dither texture
 
 The [`previews`](./previews) directory contains lightweight images and GIFs used only by this README. Full-resolution stills are stored in [`dither-wallpapers`](./dither-wallpapers), while installable dynamic wallpapers are stored in [`dynamic`](./dynamic).
