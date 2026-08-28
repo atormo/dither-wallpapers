@@ -29,14 +29,14 @@ Every still wallpaper is available individually in [`dither-wallpapers`](./dithe
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="./dither-wallpapers/03-polar-night.jpg"><img src="./previews/03-polar-night.jpg" alt="Polar Night wallpaper"></a>
-      <h3>03 Polar Night</h3>
-      <p>A quiet polar-blue night with a soft, suspended wash of cold light.</p>
+      <a href="./dither-wallpapers/03-polar-bloom.jpg"><img src="./previews/03-polar-bloom.jpg" alt="Polar Bloom wallpaper"></a>
+      <h3>03 Polar Bloom</h3>
+      <p>An airy field of ice blue, pale lavender and softly blooming daylight.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="./dither-wallpapers/04-polar-bloom.jpg"><img src="./previews/04-polar-bloom.jpg" alt="Polar Bloom wallpaper"></a>
-      <h3>04 Polar Bloom</h3>
-      <p>An airy field of ice blue, pale lavender and softly blooming daylight.</p>
+      <a href="./dither-wallpapers/04-polar-night.jpg"><img src="./previews/04-polar-night.jpg" alt="Polar Night wallpaper"></a>
+      <h3>04 Polar Night</h3>
+      <p>A quiet polar-blue night with a soft, suspended wash of cold light.</p>
     </td>
   </tr>
   <tr>
@@ -65,26 +65,26 @@ Every still wallpaper is available individually in [`dither-wallpapers`](./dithe
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="./dither-wallpapers/09-polar-meadow-night.jpg"><img src="./previews/09-polar-meadow-night.jpg" alt="Polar Meadow Night wallpaper"></a>
-      <h3>09 Polar Meadow Night</h3>
-      <p>The nocturnal counterpart: indigo light, violet bloom and deep pine green.</p>
+      <a href="./dither-wallpapers/09-polar-meadow-sunset.jpg"><img src="./previews/09-polar-meadow-sunset.jpg" alt="Polar Meadow Sunset wallpaper"></a>
+      <h3>09 Polar Meadow Sunset</h3>
+      <p>Meadow green beneath a restrained transition of peach, coral and violet light.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="./dither-wallpapers/10-rose-refraction.jpg"><img src="./previews/10-rose-refraction.jpg" alt="Rose Refraction wallpaper"></a>
-      <h3>10 Rose Refraction</h3>
-      <p>Dusty rose and raspberry gradients crossed by a barely-there pearlescent ribbon.</p>
+      <a href="./dither-wallpapers/10-polar-meadow-blue-hour.jpg"><img src="./previews/10-polar-meadow-blue-hour.jpg" alt="Polar Meadow Blue Hour wallpaper"></a>
+      <h3>10 Polar Meadow Blue Hour</h3>
+      <p>Cobalt and lavender settling over the landscape while the emerald ground remains visible.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="./dither-wallpapers/11-polar-meadow-sunset.jpg"><img src="./previews/11-polar-meadow-sunset.jpg" alt="Polar Meadow Sunset wallpaper"></a>
-      <h3>11 Polar Meadow Sunset</h3>
-      <p>Meadow green beneath a restrained transition of peach, coral and violet light.</p>
+      <a href="./dither-wallpapers/11-polar-meadow-night.jpg"><img src="./previews/11-polar-meadow-night.jpg" alt="Polar Meadow Night wallpaper"></a>
+      <h3>11 Polar Meadow Night</h3>
+      <p>The nocturnal counterpart: indigo light, violet bloom and deep pine green.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="./dither-wallpapers/12-polar-meadow-blue-hour.jpg"><img src="./previews/12-polar-meadow-blue-hour.jpg" alt="Polar Meadow Blue Hour wallpaper"></a>
-      <h3>12 Polar Meadow Blue Hour</h3>
-      <p>Cobalt and lavender settling over the landscape while the emerald ground remains visible.</p>
+      <a href="./dither-wallpapers/12-rose-refraction.jpg"><img src="./previews/12-rose-refraction.jpg" alt="Rose Refraction wallpaper"></a>
+      <h3>12 Rose Refraction</h3>
+      <p>Dusty rose and raspberry gradients crossed by a barely-there pearlescent ribbon.</p>
     </td>
   </tr>
 </table>
