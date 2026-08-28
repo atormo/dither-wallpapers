@@ -96,7 +96,7 @@ The HEIC wallpapers switch automatically. The animated previews below are short 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./previews/dynamic-polar-meadow.gif" alt="Animated preview of Polar Meadow Dynamic">
+      <img src="./previews/dynamic-polar-meadow.png" alt="Animated preview of Polar Meadow Dynamic">
       <h3>Polar Meadow Dynamic</h3>
       <p>Four time-based stages using the Mac's local system time.</p>
       <p><strong>07:00 Day&nbsp;&nbsp;15:00 Sunset&nbsp;&nbsp;20:00 Blue Hour&nbsp;&nbsp;22:30 Night</strong></p>
