@@ -2,7 +2,7 @@
 
 # Dither Wallpapers
 
-**A collection of 10 abstract 5K wallpapers shaped by soft gradients, iridescent light and ordered dithering.**
+**A collection of 10 dither abstract 5K wallpapers.**
 
 [![Download all wallpapers](https://img.shields.io/badge/Download-all%2010%20wallpapers-171717?style=for-the-badge)](https://github.com/atormo/dither-wallpapers/releases/latest/download/dither-wallpapers.zip)
 
