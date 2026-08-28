@@ -2,17 +2,17 @@
 
 # Dither Wallpapers
 
-**A collection of 10 dither abstract 5K wallpapers.**
+**A collection of 12 still and 2 dynamic dither wallpapers in 5K.**
 
-[![Download all wallpapers](https://img.shields.io/badge/Download-all%2010%20wallpapers-171717?style=for-the-badge)](https://github.com/atormo/dither-wallpapers/releases/latest/download/dither-wallpapers.zip)
+[![Download complete collection](https://img.shields.io/badge/Download-complete%20collection-171717?style=for-the-badge)](https://github.com/atormo/dither-wallpapers/releases/latest/download/dither-wallpapers.zip)
 
-5120 × 3200&nbsp;&nbsp;&nbsp;16:10&nbsp;&nbsp;&nbsp;JPEG
+12 stills&nbsp;&nbsp;&nbsp;2 dynamic&nbsp;&nbsp;&nbsp;5120 × 3200&nbsp;&nbsp;&nbsp;16:10
 
 </div>
 
-## The collection
+## Still collection
 
-Every wallpaper is available individually in [`dither-wallpapers`](./dither-wallpapers) and at full 5K resolution. Click any preview to open the original image.
+Every still wallpaper is available individually in [`dither-wallpapers`](./dither-wallpapers) at full 5K resolution. Click any preview to open the original image.
 
 <table>
   <tr>
@@ -75,26 +75,69 @@ Every wallpaper is available individually in [`dither-wallpapers`](./dither-wall
       <p>Dusty rose and raspberry gradients crossed by a barely-there pearlescent ribbon.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="./dither-wallpapers/11-polar-meadow-sunset.jpg"><img src="./previews/11-polar-meadow-sunset.jpg" alt="Polar Meadow Sunset wallpaper"></a>
+      <h3>11 Polar Meadow Sunset</h3>
+      <p>Meadow green beneath a restrained transition of peach, coral and violet light.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="./dither-wallpapers/12-polar-meadow-blue-hour.jpg"><img src="./previews/12-polar-meadow-blue-hour.jpg" alt="Polar Meadow Blue Hour wallpaper"></a>
+      <h3>12 Polar Meadow Blue Hour</h3>
+      <p>Cobalt and lavender settling over the landscape while the emerald ground remains visible.</p>
+    </td>
+  </tr>
 </table>
+
+## Dynamic collection
+
+The HEIC wallpapers switch automatically. The animated previews below are short visual demonstrations of the included states.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./previews/dynamic-polar-meadow.gif" alt="Animated preview of Polar Meadow Dynamic">
+      <h3>Polar Meadow Dynamic</h3>
+      <p>Four time-based stages using the Mac's local system time.</p>
+      <p><strong>07:00 Day&nbsp;&nbsp;15:00 Sunset&nbsp;&nbsp;20:00 Blue Hour&nbsp;&nbsp;22:30 Night</strong></p>
+      <p><a href="https://github.com/atormo/dither-wallpapers/releases/latest/download/polar-meadow-dynamic.heic"><strong>Download HEIC</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./previews/dynamic-polar-day-night.gif" alt="Animated preview of Polar Day and Night Dynamic">
+      <h3>Polar Day &amp; Night Dynamic</h3>
+      <p>Two appearance-based states that follow the system Light and Dark mode.</p>
+      <p><strong>Polar Bloom Light&nbsp;&nbsp;Polar Night Dark</strong></p>
+      <p><a href="https://github.com/atormo/dither-wallpapers/releases/latest/download/polar-day-night-dynamic.heic"><strong>Download HEIC</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+The two HEIC files are also stored in [`dynamic`](./dynamic).
 
 ## Download
 
 ### Complete collection
 
-1. Click **[Download all 10 wallpapers](https://github.com/atormo/dither-wallpapers/releases/latest/download/dither-wallpapers.zip)**.
-2. Open `dither-wallpapers.zip` once the download finishes.
-3. Choose a wallpaper and set it from **System Settings → Wallpaper → Add Photo** on macOS.
+1. Download [`dither-wallpapers.zip`](https://github.com/atormo/dither-wallpapers/releases/latest/download/dither-wallpapers.zip).
+2. Unzip it to find the `dither-wallpapers` folder with 12 stills and the `dynamic` folder with 2 HEIC wallpapers.
 
-### Individual wallpaper
+### Individual still
 
-1. Click a preview above to open its full-resolution file.
-2. Use GitHub's download button, or save the image directly from your browser.
+1. Click a preview in the still collection to open its full-resolution file.
+2. Use GitHub's download button, or save the image directly from the browser.
+
+### Dynamic wallpaper
+
+1. Download one of the HEIC files above and save it somewhere permanent.
+2. In Finder, right-click the file and choose **Services → Set Desktop Picture**.
+3. If it initially appears static, open **System Settings → Wallpaper**, select an Apple Dynamic Wallpaper in **Dynamic** mode, then set the downloaded HEIC again.
 
 ## Details
 
 - **Resolution:** 5120 × 3200 pixels
 - **Aspect ratio:** 16:10
-- **Format:** high-quality JPEG
+- **Still format:** high-quality JPEG
+- **Dynamic format:** HEIC
 - **Finish:** smooth gradients with a consistent ordered-dither texture
 
-The `previews` directory contains lightweight images used only by this README. The downloadable originals are stored in `dither-wallpapers`.
+The [`previews`](./previews) directory contains lightweight images and GIFs used only by this README. Full-resolution stills are stored in [`dither-wallpapers`](./dither-wallpapers), while installable dynamic wallpapers are stored in [`dynamic`](./dynamic).
