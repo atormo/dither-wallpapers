@@ -99,14 +99,12 @@ The HEIC wallpapers switch automatically. The animated previews below are short 
       <img src="./previews/dynamic-polar-meadow.png" alt="Animated preview of Polar Meadow Dynamic">
       <h3>Polar Meadow Dynamic</h3>
       <p>Four time-based stages using the Mac's local system time.</p>
-      <p><strong>07:00 Day&nbsp;&nbsp;15:00 Sunset&nbsp;&nbsp;20:00 Blue Hour&nbsp;&nbsp;22:30 Night</strong></p>
       <p><a href="https://github.com/atormo/dither-wallpapers/releases/latest/download/polar-meadow-dynamic.heic"><strong>Download HEIC</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <img src="./previews/dynamic-polar-day-night.gif" alt="Animated preview of Polar Day and Night Dynamic">
       <h3>Polar Day &amp; Night Dynamic</h3>
       <p>Two appearance-based states that follow the system Light and Dark mode.</p>
-      <p><strong>Polar Bloom Light&nbsp;&nbsp;Polar Night Dark</strong></p>
       <p><a href="https://github.com/atormo/dither-wallpapers/releases/latest/download/polar-day-night-dynamic.heic"><strong>Download HEIC</strong></a></p>
     </td>
   </tr>
